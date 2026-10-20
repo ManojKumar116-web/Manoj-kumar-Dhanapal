@@ -1,5 +1,4 @@
-# **Manoj Kumar D**  
-# **Sr System Engineer**#
+# **Manoj Kumar D**  _Sr System Engineer_
 rmk.manojkumar116@gmail.com  
 9035814057
 https://github.com/ManojKumar116-web/Manoj-kumar-Dhanapal.git 
