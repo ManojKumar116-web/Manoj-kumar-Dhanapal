@@ -1,5 +1,4 @@
-# **Manoj Kumar D**
-_Sr System Engineer_ 
+# **Manoj Kumar D** _Sr System Engineer_ 
 
 rmk.manojkumar116@gmail.com 9035814057 
 
