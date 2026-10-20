@@ -1,5 +1,4 @@
-# **Manoj Kumar D** 
-_Sr System Engineer_
+# **Manoj Kumar D** _Sr System Engineer_*
 
 
 
@@ -12,7 +11,7 @@ https://github.com/ManojKumar116-web/Manoj-kumar-Dhanapal.git
  Working in Bommanahalli,Bangalore, Karnataka, 560068 
 
 
-#u>SUMMARY</u>** 
+SUMMARY
 
 
 
