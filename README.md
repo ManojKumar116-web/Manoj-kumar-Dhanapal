@@ -1,14 +1,13 @@
 # **Manoj Kumar D** _Sr System Engineer_*
 
 
+rmk.manojkumar116@gmail.com 
 
-
-rmk.manojkumar116@gmail.com  
 9035814057
+
 https://github.com/ManojKumar116-web/Manoj-kumar-Dhanapal.git
 
-
- Working in Bommanahalli,Bangalore, Karnataka, 560068 
+ Bommanahalli,Bangalore, Karnataka, 560068 
 
 
 SUMMARY
