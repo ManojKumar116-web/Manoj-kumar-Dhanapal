@@ -3,10 +3,11 @@
 
 rmk.manojkumar116@gmail.com 
 
-9035814057
 https://github.com/ManojKumar116-web/Manoj-kumar-Dhanapal.git
 
 Bommanahalli,Bangalore, Karnataka, 560068 
+
+9035814057
 
 
 # ** SUMMARY **
@@ -15,10 +16,15 @@ Strong problem solver always ready to boost client satisfaction and enhance comp
 
 ## ** KNOWLEDGE ** 
 
-
-
 **Windows Server:** AD, DHCP, DNS, GPO, LAN & VPN …etc. - 5 Years
-**Network & Configuration:** Router, Switches, Access Point & Firewall. Etc - 6 Years 
+
+**Network & Configuration:** Router, Switches, Access Point & Firewall. Etc - 6 Years
+
 **Windows & Linux:** 8 &4 Years
+
 **Network Storage Device (NAS):** 3 Years 
+
 **Ticketing System & Backup** Service now, IOPS & Veeam, Windows backup tool 4years 
+
+
+
