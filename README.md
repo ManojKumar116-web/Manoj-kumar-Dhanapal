@@ -26,5 +26,14 @@ Strong problem solver always ready to boost client satisfaction and enhance comp
 
 **Ticketing System & Backup** Service now, IOPS & Veeam, Windows backup tool 4years 
 
+# ![](images/Resume-ManojKumar-Inf-image7.png) SKILLS
 
+- A Clear Elevating goal
+- Diagnosis Troubleshooting hardware and software related issues
+- Technical Issues Analysis
+- Teamwork/Collaboration
+- Ticket Management & Problem Solving
+- Networking & Infrastructure Planning
+
+- 
 
