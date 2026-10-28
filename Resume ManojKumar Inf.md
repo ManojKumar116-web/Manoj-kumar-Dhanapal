@@ -20,7 +20,7 @@ Devoted trouble shooter with a deep understanding of system architecture and dia
 
 ## Network & Configuration: Router, Switches, Access Point & Firewall. Etc - 6 Years
 
-**Windows & Linux:** 8 &4 Years
+**Windows & Linux:** 8 & 4 Years
 
 **Network Storage Device (NAS):** 3 Years
 
@@ -122,7 +122,3 @@ Dharmapuri, Tamil Nadu
 - Relocated and configured desktop computer devices and phones to facilitate office moves and new employee workstations.
 - Visited sites and locations to identify areas needing to be monitored with CCTV cameras.
 - Maintained televising equipment in good operating condition by adjusting, cleaning and performing minor repairs.
-
-# ![](images/Resume-ManojKumar-Inf-image10.png)DECLARATION
-
-do hereby confirm that the information given above is true to the best of my knowledge.
