@@ -24,39 +24,8 @@ Devoted trouble shooter with a deep understanding of system architecture and dia
 
 **Network Storage Device (NAS):** 3 Years
 
-## Ticketing System & Backup
+## Ticketing System & Backup: Service now, IOPS & Veeam, Windows backup tool - 4 years
 
-**System:**Service now, IOPS&Veeam,Windows backup tool 4years
-
-# WORK HISTORY
-
-*![](images/Resume-ManojKumar-Inf-image6.png)***Sr System Engineer,** *Infosys*
-
-07/2025 – Current | Bangalore, Karnataka
-
-- Manage and maintain company IT infrastructure, including servers, network devices, switches, Routers and user systems.
-- Perform root cause analysis (RCA) for recurring infrastructure and application issues.
-- Handle incident, service request, problem, and change management activities through (servicenow)ITSM tools.
-- Support firewall and VPN technologies FTD, Global Protect, and Zscaler.
-- Support PCI-DSS, internal audits, and compliance verification activities and prepare audit evidence, reports, and compliance documentation.
-- Manage endpoint security solutions including cortex, vulnerability, Management and Absolute.
-- Monitor and troubleshoot enterprise endpoint devices including desktops, laptops, thin clients, docking stations, and peripherals.
-- Configuration (Routers & Switches configuration for new project)
-- Implement and maintain system security protocols, including firewalls, antivirus solutions, and access control.
-- Perform system health monitoring, performance tuning, and capacity planning for enterprise infrastructure.
-- Participate in Major Incident Management (MIM) and problem management activities.
-
-**Sr IT Support Engineer ,** *Qteam Infra Services Private Limited* 01/2024 – 06/2025 | Bangalore, Karnataka
-
-- Manage and maintain company IT infrastructure, including servers, network devices, and user systems(Windows, Linux(ubuntu).
-- Monitor system performance and troubleshoot issues to minimize downtime.
-- Configuration (Routers,switches & Firewall Config in new site & new locations)
-- Implement and maintain system security protocols, including firewalls, antivirus solutions, and access control.
-- Collaborate with IT staff to develop strategies and systems for minimize downtime.
-- Diagnosed and executed resolution for all network and server issues.
-- Designed and evaluated WAN and LAN connectivity technologies.
-- Maintain detailed documentation of system configurations and changes.
-- Assist with onboarding of new employees, ensuring proper setup of accounts and hardware.
 
 # ![](images/Resume-ManojKumar-Inf-image7.png) SKILLS
 
@@ -89,12 +58,40 @@ Dharmapuri, Tamil Nadu
 
 # ![](images/Resume-ManojKumar-Inf-image9.png) LANGUAGE KNOWN
 
-## Kannada Tamil English
-
+## Kannada 
+## Tamil 
+## English
 **Hindi:** Manageable
-
 **Telugu:** Manageable
+# WORK HISTORY
 
+*![](images/Resume-ManojKumar-Inf-image6.png)***Sr System Engineer,** *Infosys*
+
+07/2025 – Current | Bangalore, Karnataka
+
+- Manage and maintain company IT infrastructure, including servers, network devices, switches, Routers and user systems.
+- Perform root cause analysis (RCA) for recurring infrastructure and application issues.
+- Handle incident, service request, problem, and change management activities through (servicenow)ITSM tools.
+- Support firewall and VPN technologies FTD, Global Protect, and Zscaler.
+- Support PCI-DSS, internal audits, and compliance verification activities and prepare audit evidence, reports, and compliance documentation.
+- Manage endpoint security solutions including cortex, vulnerability, Management and Absolute.
+- Monitor and troubleshoot enterprise endpoint devices including desktops, laptops, thin clients, docking stations, and peripherals.
+- Configuration (Routers & Switches configuration for new project)
+- Implement and maintain system security protocols, including firewalls, antivirus solutions, and access control.
+- Perform system health monitoring, performance tuning, and capacity planning for enterprise infrastructure.
+- Participate in Major Incident Management (MIM) and problem management activities.
+
+**Sr IT Support Engineer ,** *Qteam Infra Services Private Limited* 01/2024 – 06/2025 | Bangalore, Karnataka
+
+- Manage and maintain company IT infrastructure, including servers, network devices, and user systems(Windows, Linux(ubuntu).
+- Monitor system performance and troubleshoot issues to minimize downtime.
+- Configuration (Routers,switches & Firewall Config in new site & new locations)
+- Implement and maintain system security protocols, including firewalls, antivirus solutions, and access control.
+- Collaborate with IT staff to develop strategies and systems for minimize downtime.
+- Diagnosed and executed resolution for all network and server issues.
+- Designed and evaluated WAN and LAN connectivity technologies.
+- Maintain detailed documentation of system configurations and changes.
+- Assist with onboarding of new employees, ensuring proper setup of accounts and hardware.
 - Manage ticketing system, tracking and resolving issues in a timely manner.
 - Provided day-to-day technical support to employees, resolving hardware, software, and network issues.
 - Assisted in the maintenance of IT infrastructure, including updates, patches, and system upgrades. Implemented Hyper-V and VMware-based virtualization, improving server utilization.
