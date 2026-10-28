@@ -1,4 +1,4 @@
-**Manoj Kumar D** *Sr System Engineer & Technical Support*
+**Manoj Kumar D** *Sr System Engineer*
 
 ![](images/Resume-ManojKumar-Inf-image1.png) [rmk.manojkumar116@gmail.com ![](images/Resume-ManojKumar-Inf-image2.png) 9035814057](mailto:rmk.manojkumar116@gmail.com)  
   
